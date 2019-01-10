@@ -1,6 +1,9 @@
 # ug_connection README
 
 兼容性：
+[![](https://img.shields.io/badge/OS%20X-10.14-brightgreen.svg)]
+[![](https://img.shields.io/badge/OS%20X-10.13-brightgreen.svg)]
+[![](https://img.shields.io/badge/script-sh-blue.svg)]
 MAC OS X 和预装expect的Linux系统。
 不支持Windows系统
 
