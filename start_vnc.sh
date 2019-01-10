@@ -22,6 +22,7 @@ expect {
     }
 }
 expect "#"
-send "ece297vnc stop all"
+send "ece297vnc stop all\n"
 send "ece297vnc start\n"
+send "ece297vnc stop all"
 interact
