@@ -6,8 +6,10 @@
 ![](https://img.shields.io/badge/Script-sh-blue.svg)
 ![](https://img.shields.io/badge/License-MIT-blue.svg)
 
-MAC OS X 和预装expect的Linux系统。
-不支持Windows系统
+MAC OS X 和预装expect的Linux系统。不支持Windows系统。
+
+Windows版本请参考@junhaoliao/UG_Remote：
+https://github.com/junhaoliao/UG_Remote
 
 ## 首次使用的配置！！！
 1. 首先cd进入connect_ug.sh所在文件夹。
