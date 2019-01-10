@@ -1,3 +1,5 @@
+# ug_connection README
+
 兼容性：
 MAC OS X 和预装expect的Linux系统。
 不支持Windows系统
@@ -15,6 +17,7 @@ MAC OS X 和预装expect的Linux系统。
 5. 输入后等待其完成链接。
 6. 查看建立的VNC信息，注意几个信息：
 ie：
+'''
 To Connect via Linux/Mac (without 'vncviewer')
 ==============================================
 	Terminal:
@@ -24,6 +27,7 @@ To Connect via Linux/Mac (without 'vncviewer')
 
 连接的端口：5903
 连接主机：ug180
+'''
 7. 将该窗口闲置，千万不要关闭！
 8. 打开第二个控制台，输入enter the id to ug computer as shown:，也就是第6步中的主机编号，ie：180
 9. enter the vnc port to the computer as shown:，也就是第6步中的主机端口，ie：5903
