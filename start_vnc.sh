@@ -22,7 +22,6 @@ expect {
     }
 }
 expect "#"
+send "ece297vnc stop all"
 send "ece297vnc start\n"
-send "#ie: ece297vnc stop ug170.eecg.toronto.edu:1\n"
-send "ece297vnc stop "
 interact
