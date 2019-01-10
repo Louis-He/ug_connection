@@ -2,7 +2,7 @@
 English and Chinese version of README are both avaliable. 本项目有中英文版README。
 
 ## README English Version
-兼容性：
+Compatibility：
 ![](https://img.shields.io/badge/OS%20X-10.14-brightgreen.svg)
 ![](https://img.shields.io/badge/OS%20X-10.13-brightgreen.svg)
 ![](https://img.shields.io/badge/Script-sh-blue.svg)
@@ -16,7 +16,7 @@ https://github.com/junhaoliao/UG_Remote
 ### Configuration when you first use！！！
 1. cd to the directory containing connect_ug.sh。
 2. Open start_vnc.sh and establish_vnc_turnal.sh using text editor and change the setting in the first few lines，including "set user USERNAMEHERE" and "set passwd PWHERE". USERNAMEHERE should be your UTORid, PWHERE should be the password to your ugsystem. Save and exit after you change USERNAMEHERE and PWHERE. You do NOT need to change anything else.
-3. 配置完成。
+3. Done configuration。
 
 ### How to use the script？
 1. Open terminal，cd to the directory containing connect_ug.sh.
