@@ -8,6 +8,9 @@ English and Chinese version of README are both avaliable.
 
 本项目有中英文版README。
 
+## Disclaimer
+⚠️⚠️⚠️ The UTORid and password are saved as plain text inside the script. User has the responsibility to keep these credentials safe.
+
 ## README English Version
 Compatibility:
 ![](https://img.shields.io/badge/OS%20X-10.14-brightgreen.svg)
