@@ -15,12 +15,12 @@ MAC OS X and expect installed Linux Systems Only. Windows Systems are not suppor
 If you are a windows user, please check @junhaoliao/UG_Remote:
 https://github.com/junhaoliao/UG_Remote
 
-### Configuration when you first use！！！
+### Configuration when you first use!!!
 1. cd to the directory containing connect_ug.sh。
 2. Open start_vnc.sh and establish_vnc_turnal.sh using text editor and change the setting in the first few lines, including "set user USERNAMEHERE" and "set passwd PWHERE". USERNAMEHERE should be your UTORid, PWHERE should be the password to your ugsystem. Save and exit after you change USERNAMEHERE and PWHERE. You do NOT need to change anything else.
 3. Done configuration.
 
-### How to use the script？
+### How to use the script?
 1. Open terminal，cd to the directory containing connect_ug.sh.
 2. Enter```sh connect_ug.sh```to run the. script.
 3. Two new terminal windows will pop. First you will see the window written"```enter an id to ug computer: ```"(Auto Focus)。
