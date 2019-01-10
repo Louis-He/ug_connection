@@ -1,4 +1,9 @@
 # ug_connection README
+
+## Introduction
+This project is for auto VNC connection establishment to utoronto ug system.
+
+
 English and Chinese version of README are both avaliable. 
 
 本项目有中英文版README。
