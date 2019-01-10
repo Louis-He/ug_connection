@@ -17,6 +17,8 @@ Compatibility:
 
 MAC OS X and expect installed Linux Systems Only. Windows Systems are not supported.
 
+Already tested on MAC OS X > 10.13. Uncertain for other versions of OS X system, but should work.
+
 If you are a windows user, please check @junhaoliao/UG_Remote:
 https://github.com/junhaoliao/UG_Remote
 
@@ -62,6 +64,8 @@ computer id for the connection：ug180
 ![](https://img.shields.io/badge/License-MIT-blue.svg)
 
 MAC OS X 和预装expect的Linux系统。不支持Windows系统。
+
+已经在MAC OS X > 10.13版本的系统中成功测试。其余版本的OS X系统情况未知，但应该可以正常使用
 
 Windows版本请参考@junhaoliao/UG_Remote：
 https://github.com/junhaoliao/UG_Remote
