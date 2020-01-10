@@ -13,6 +13,7 @@ English and Chinese version of README are both avaliable.
 
 ## README English Version
 Compatibility:
+![](https://img.shields.io/badge/OS%20X-10.15-brightgreen.svg)
 ![](https://img.shields.io/badge/OS%20X-10.14-brightgreen.svg)
 ![](https://img.shields.io/badge/OS%20X-10.13-brightgreen.svg)
 ![](https://img.shields.io/badge/Script-sh-blue.svg)
@@ -61,6 +62,7 @@ computer id for the connection：ug180
 ## README 中文版指南
 
 兼容性：
+![](https://img.shields.io/badge/OS%20X-10.15-brightgreen.svg)
 ![](https://img.shields.io/badge/OS%20X-10.14-brightgreen.svg)
 ![](https://img.shields.io/badge/OS%20X-10.13-brightgreen.svg)
 ![](https://img.shields.io/badge/Script-sh-blue.svg)
